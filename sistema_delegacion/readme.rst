@@ -1,4 +1,4 @@
 ###################
-Sistema informático de la Delegación de San Pedro Totoltepec
+Sistema informático de la Delegación de San Pedro Totoltepec XD
 ###################
 
